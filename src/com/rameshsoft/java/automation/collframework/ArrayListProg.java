@@ -23,6 +23,8 @@ public static void main(String[] args) {
 	list.add("practice");
 	list.add("hardwork");
 	list.add(0, "JOB");
+list.add(456);
+	list.add("job");
 	System.out.println(list);
 	
 	Object obj0 = list.get(0);
